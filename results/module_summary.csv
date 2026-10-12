@@ -1,0 +1,13 @@
+module,size,top_genes,best_matching_term,genes_in_term
+1,72,"AKT1, PIK3CA, KRAS, PTEN, HRAS",RAF activation (REAC),12
+2,50,"CTNNB1, SMAD4, AXIN1, DVL3, APC",Disassembly of the destruction complex and recruitment of AXIN to the membrane (REAC),8
+3,45,"H3-3B, EZH2, SUZ12, H3-3A, EED",epigenetic regulation of gene expression (GO:BP),15
+4,37,"RUNX2, SHH, IHH, BMP2, SMO",Hedgehog signaling pathway (KEGG),14
+5,26,"DYNC2H1, OFD1, TCP1, TUBA1A, IFT80",smoothened signaling pathway (GO:BP),6
+6,25,"NFIA, FMR1, MTM1, DICER1, BIN1",positive regulation of neurogenesis (GO:BP),4
+7,24,"CAMK2A, LMNA, NONO, PLCB4, FLNA",epigenetic regulation of gene expression (GO:BP),3
+8,21,"DAG1, POMGNT1, POMK, POMGNT2, POMT1",Mannose type O-glycan biosynthesis (KEGG),13
+9,16,"PEX5, PEX12, PEX10, PEX13, PEX14","protein import into peroxisome matrix, receptor recycling (GO:BP)",6
+10,16,"GAD1, ETFA, ACADM, ETFB, ETFDH",tissue development (GO:BP),3
+11,11,"ARSB, MAN2C1, GNS, IDS, GUSB",glycoprotein metabolic process (GO:BP),6
+12,5,"SRRM2, SON, CWC27, UPF3B, SRPK3",RNA biosynthetic process (GO:BP),5

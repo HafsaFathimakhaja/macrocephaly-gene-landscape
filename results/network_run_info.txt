@@ -1,0 +1,3 @@
+STRING queried: 2026-10-12
+Species: 9606 | required_score: 700
+Nodes: 379 | Edges: 1268 | Modules (Louvain, seed 42): 25
