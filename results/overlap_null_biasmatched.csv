@@ -1,0 +1,5 @@
+comparison,observed_overlap,sizeonly_null_mean,sizeonly_fold,sizeonly_p,biasmatched_null_mean,biasmatched_fold,biasmatched_p
+macrocephaly vs microcephaly,192,124.7,1.54,9.999000099990002e-05,191.9,1.0,0.5144485551444855
+macrocephaly vs autism,55,25.3,2.17,9.999000099990002e-05,51.4,1.07,0.29087091290870914
+macrocephaly vs seizure,301,184.8,1.63,9.999000099990002e-05,263.9,1.14,9.999000099990002e-05
+four-way shared core (n=31),31,14.4,2.16,9.999000099990002e-05,30.1,1.03,0.45385461453854614

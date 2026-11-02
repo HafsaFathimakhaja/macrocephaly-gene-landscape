@@ -1,0 +1,5 @@
+phenotype,hpo_id,hpo_name,n_genes,hpo_download_date
+macrocephaly,HP:0000256,Macrocephaly,479,2026-10-12
+microcephaly,HP:0000252,Microcephaly,1445,2026-10-12
+autism,HP:0000717,Autism,302,2026-10-12
+seizure,HP:0001250,Seizure,2113,2026-10-12

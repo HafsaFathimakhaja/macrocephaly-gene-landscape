@@ -1,0 +1,3 @@
+g:Profiler run date: 2026-10-12
+Sources: GO:BP, KEGG, REAC | correction: g_SCS | threshold: 0.05
+Background: 5277 HPO-annotated genes (domain_scope=custom)

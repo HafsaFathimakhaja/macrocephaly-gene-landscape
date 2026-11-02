@@ -1,0 +1,4 @@
+Macrocephaly genes shared with microcephaly, autism AND seizure (n=31):
+AHDC1, ALG13, CHD8, CHRNA7, CNTNAP2, DEAF1, DEPDC5, DPYD, DPYS, EIF4A2, EXT2, FGFR1, GABBR2, GNB1, HDAC4, IFT74, KCNC2, KDM5C, KDM6B, MECP2, PIGA, RERE, SATB2, SETD2, SHANK3, SMAD4, SMC1A, SPTBN1, TBCK, TMEM216, UBE3A
+
+Median HPO annotations: shared core=113, background=37

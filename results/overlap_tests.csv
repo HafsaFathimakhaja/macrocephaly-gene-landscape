@@ -1,0 +1,4 @@
+comparison,size_A,size_B,overlap,expected,fold_enrichment,jaccard,p_value,p_adj_BH
+macrocephaly vs microcephaly,479,1445,204,131.2,1.56,0.119,3.761186923584166e-14,5.64178038537625e-14
+macrocephaly vs autism,479,302,61,27.4,2.23,0.085,6.740414187740443e-10,6.740414187740443e-10
+macrocephaly vs seizure,479,2113,317,191.8,1.65,0.139,7.983290016397244e-34,2.3949870049191733e-33
